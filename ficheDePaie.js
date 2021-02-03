@@ -1,4 +1,4 @@
-        
+//Test commit        
     function ElementFormulaire() {
       this.InputCheckbox = function (idInput) {
         var input = document.getElementById(idInput);
